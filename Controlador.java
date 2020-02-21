@@ -43,7 +43,7 @@ public class Controlador extends javax.swing.JFrame {
     }
 
     public void bloqueo_cajas_texto() {
-        txtRafaga.setEnabled(false);
+        txtRafaga.setEnabled(false); 
         txtTiempo.setEnabled(false);
         jTextFieldNumProcesos.setEnabled(false);
     }
