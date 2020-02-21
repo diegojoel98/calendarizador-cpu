@@ -22,7 +22,7 @@ public class ListaDoble {
 
             while (aux.siguiente != null) {
                 tamano++;
-                aux = aux.siguiente;
+                aux = aux.siguiente; 
             }
         }
         return tamano;
