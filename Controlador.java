@@ -23,7 +23,7 @@ public class Controlador extends javax.swing.JFrame {
     ListaDoble listaDoble = new ListaDoble();
 
     public Controlador() {
-        initComponents();
+        initComponents(); 
         this.setLocationRelativeTo(null);
         listaAlgoritmos = new Vector<Object>();
         tabla();
