@@ -24,6 +24,6 @@ public class Nodo {
     }
 
     public void setAnterior(Nodo anterior) {
-        this.anterior = anterior;
+        this.anterior = anterior; 
     }  
 }
